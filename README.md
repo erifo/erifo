@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+I'm currently working on migrating examples of my code to this profile.
+
+Constructive feedback is always appreciated!
 
 <!--
 **erifo/erifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
