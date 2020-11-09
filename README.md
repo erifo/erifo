@@ -1,5 +1,7 @@
 ### Hello! 👋
-I'm currently working on migrating examples of my code to this profile.
+I'm a new programmer looking for work and experience.
+
+I am most comfortable with Python, but I also have experience with writing C# applications.
 
 Constructive feedback is always appreciated!
 
